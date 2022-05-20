@@ -7,7 +7,6 @@ https://rhaskia.itch.io/paleo-ocean-rogue-like - Roguelike game with prehistoric
 https://juryman.itch.io/reflection-run - Two player platoomer racing game - Made for a game jam
 https://protondev.itch.io/split-evolution - Puzzle game set in a laboratory - Also made for a game jam
 
-
 Other Projects ->
 - The Mesocene, an RPG with over 240+ prehistoric creatures that I'm working on with some folks
 - Deep Under, a game set deep under the surface on a watery planet, with (not yet implemented) sound and disturbance mechanics.
