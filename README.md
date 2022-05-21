@@ -11,3 +11,4 @@ Old Itch Projects:
 - https://rhaskia.itch.io/paleo-ocean-rogue-like - Roguelike game with prehistoric creatures
 - https://juryman.itch.io/reflection-run - Two player platoomer racing game - Made for a game jam
 - https://protondev.itch.io/split-evolution - Puzzle game set in a laboratory - Also made for a game jam
+- https://rhaskia.itch.io/too-many-slimes - Open-World 2048 with slimes - Sorta broken
